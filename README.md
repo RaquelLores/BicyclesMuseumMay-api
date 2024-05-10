@@ -23,7 +23,7 @@
 
 ## Descripción
 
-Tomando como referencia nuestro proyecto "Museo de Bicicletas" que es una aplicación web desarrollada con React, que te traslada al fascinante mundo de las bicicletas, hemos desarrollado nuestra API para el almacenamiento de datos con MySQL, NODE y Express, entre otras tecnologías, para un mejor manejo de errores, con Jest y Supertest.
+Tomando como referencia nuestro proyecto "Museo de Bicicletas" que es una aplicación web desarrollada con React, que te traslada al corazón de cada bicicleta, hemos desarrollado nuestra API para el almacenamiento de datos con MySQL, NODE y Express, entre otras tecnologías, para un mejor manejo de errores, con Jest y Supertest.
 
 ## Instalación
 
